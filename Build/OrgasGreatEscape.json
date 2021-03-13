@@ -1,0 +1,16 @@
+{
+"companyName": "DL Future Game Lab",
+"productName": "OrgasGreatEscape",
+"productVersion": "1.0",
+"dataUrl": "OrgasGreatEscape.data.unityweb",
+"wasmCodeUrl": "OrgasGreatEscape.wasm.code.unityweb",
+"wasmFrameworkUrl": "OrgasGreatEscape.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
